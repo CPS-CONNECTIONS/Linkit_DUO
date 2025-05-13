@@ -7,32 +7,34 @@
       "help": {
         "online": "http://localhost/"
       },
-      "platforms":[
+      "platforms": [
+        {
+          "name": "LinkIt Smart 7688 Duo",
+          "architecture": "avr",
+          "version": "0.1.9",
+          "category": "Contributed",
+          "url": "https://raw.githubusercontent.com/CPS-CONNECTIONS/Linkit_DUO/main/mediatek_linkit_smart_7688_0.1.9.zip",
+          "archiveFileName": "mediatek_linkit_smart_7688_0.1.9.zip",
+          "checksum": "SHA-256:abcde12345...7890",
+          "size": "6215903",
+          "boards": [
+            { "name": "LinkIt Smart 7688 Duo" }
+          ],
+          "toolsDependencies": [
             {
-               "name":"LinkIt Smart 7688 Duo",
-               "architecture":"avr",
-               "version": "0.1.9",
-               "category":"Contributed",
-               "url":"https://raw.githubusercontent.com/CPS-CONNECTIONS/Linkit_DUO/main/mediatek_linkit_smart_7688_0.1.9.zip",
-               "archiveFileName": "mediatek_linkit_smart_7688_0.1.9.zip",
-               "boards":[
-                  { "name":"LinkIt Smart 7688 Duo" }
-               ],
-               "toolsDependencies":[
-                  {
-                     "packager":"arduino",
-                     "name":"avr-gcc",
-                     "version":"4.8.1-arduino5"
-                  },
-                  {
-                     "packager":"arduino",
-                     "name":"avrdude",
-                     "version":"6.0.1-arduino5"
-                  }
-               ]
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
             }
-         ],
-      "tools":[]
+          ]
+        }
+      ],
+      "tools": []
     }
   ]
 }
