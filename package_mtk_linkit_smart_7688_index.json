@@ -13,7 +13,7 @@
                "architecture":"avr",
                "version": "0.1.9",
                "category":"Contributed",
-               "url":"https://github.com/CPS-CONNECTIONS/Linkit_DUO/blob/main/mediatek_linkit_smart_7688_0.1.9.zip",
+               "url":"https://github.com/CPS-CONNECTIONS/Linkit_DUO/raw/main/mtk/mediatek_linkit_smart_7688_0.1.9.zip",
                "archiveFileName": "mediatek_linkit_smart_7688_0.1.9.zip",
                "boards":[
                   { "name":"LinkIt Smart 7688 Duo" }
