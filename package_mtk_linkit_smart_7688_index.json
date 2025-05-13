@@ -16,7 +16,7 @@
           "url": "https://raw.githubusercontent.com/CPS-CONNECTIONS/Linkit_DUO/main/mediatek_linkit_smart_7688_0.1.9.zip",
           "archiveFileName": "mediatek_linkit_smart_7688_0.1.9.zip",
           "checksum": "SHA-256:0917a47071bda1d838aa1860361e980bd80dd7e47779482181e16b7ba0c17c54",
-          "size": "6312587",
+          "size": "74852",
           "boards": [
             { "name": "LinkIt Smart 7688 Duo" }
           ],
